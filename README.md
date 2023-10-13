@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello, merhaba, 你好，こんにちは！ 👋
 
-<h1 align="center">Hey, I'm Serra</h1>
-<h3 align="center">Welcome to my page! I am a hard working programmer from Turkey</h3>
+<h3 align="center">Welcome to my page! 
+  I'm Serra, a hard working programmer from Turkey</h3>
 
 - 🌱 I’m currently learning **Angular and C#**
 
