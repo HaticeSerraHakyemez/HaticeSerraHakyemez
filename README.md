@@ -3,9 +3,9 @@
 <h3 align="left">Welcome to my page!</h3>
 <h3 align="left">I'm Serra, a hard working programmer from Turkey</h3>
 
-- 🌱 I’m currently learning **Angular and C#**
+- 🌱 I’m currently learning **Unity and React**
 
-- 👨‍💻 All of my projects are available at [x](x)
+- 👨‍💻 My projects are available [here](https://drive.google.com/drive/u/1/folders/1WV0ggAg-DOc4unWog7DtLSpTz6rOtvIA)
 
 - 📫 How to reach me **h.serra.hakyemez@gmail.com**
 
